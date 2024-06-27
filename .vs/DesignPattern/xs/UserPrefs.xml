@@ -1,0 +1,83 @@
+﻿<Properties StartupConfiguration="{D985C35D-E628-4CAA-80A7-AA70F2DFDB10}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DesignPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPattern/AdapterPattern/Adapter.cs">
+    <Files>
+      <File FileName="DesignPattern/DecoratorPattern/Avatar.cs" Line="7" Column="18" />
+      <File FileName="DesignPattern/StrategyPattern/TestData.cs" />
+      <File FileName="DesignPattern/StrategyPattern/SortUtility.cs" />
+      <File FileName="DesignPattern/ProxyPattern/UIManager.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/Program.cs" />
+      <File FileName="DesignPattern/StrategyPattern/FactoryMethodPattern/SortContexts.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/PrototypePattern/Character.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/TemplateMethodPattern/UIBase.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/FacadePattern/Managers.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/FacadePattern/Facade.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/BuilderPattern/Builder.cs" />
+      <File FileName="DesignPattern/BuilderPattern/Client.cs" />
+      <File FileName="DesignPattern/ObserverPattern/EventManager.cs" />
+      <File FileName="DesignPattern/ObserverPattern/Client.cs" />
+      <File FileName="DesignPattern/StrategyPattern/AbstractFactoryPattern/AbstractSortContexts.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/ObserverPattern/Observer.cs" />
+      <File FileName="DesignPattern/ProxyPattern/UserInfo.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/BuilderPattern/BattleUnit.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/StatePattern/FSM.cs" />
+      <File FileName="DesignPattern/StatePattern/FSMState.cs" />
+      <File FileName="DesignPattern/StrategyPattern/CompareModule.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/StrategyPattern/SortArithmeticModule.cs" />
+      <File FileName="DesignPattern/StatePattern/FSMContext.cs" />
+      <File FileName="DesignPattern/AdapterPattern/Adapter.cs" Line="64" Column="10" />
+      <File FileName="DesignPattern/AdapterPattern/DataAdapter.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/MementoPattern/Memento.cs" />
+      <File FileName="DesignPattern/MementoPattern/Client.cs" />
+      <File FileName="DesignPattern/CompositePattern/Component.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/CompositePattern/Timeline.cs" />
+      <File FileName="DesignPattern/IteratorPattern/Iterator.cs" />
+      <File FileName="DesignPattern/IteratorPattern/Client.cs" />
+      <File FileName="DesignPattern/SingletonPattern/Singleton.cs" />
+      <File FileName="DesignPattern/BridgePattern/Effect.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/BridgePattern/Skill.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/BuilderPattern/Director.cs" />
+      <File FileName="DesignPattern/DecoratorPattern/CharacterController.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/DecoratorPattern/Client.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/DecoratorPattern/IBuff.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern/StrategyPattern/SimpleFactoryPattern/SortContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPattern" expanded="True">
+            <Node name="DesignPattern" expanded="True">
+              <Node name="AdapterPattern" expanded="True">
+                <Node name="Adapter.cs" selected="True" />
+              </Node>
+              <Node name="BridgePattern" expanded="True" />
+              <Node name="BuilderPattern" expanded="True" />
+              <Node name="CompositePattern" expanded="True" />
+              <Node name="DecoratorPattern" expanded="True" />
+              <Node name="FacadePattern" expanded="True" />
+              <Node name="IteratorPattern" expanded="True" />
+              <Node name="MementoPattern" expanded="True" />
+              <Node name="ObserverPattern" expanded="True" />
+              <Node name="PrototypePattern" expanded="True" />
+              <Node name="ProxyPattern" expanded="True" />
+              <Node name="SingletonPattern" expanded="True" />
+              <Node name="StatePattern" expanded="True" />
+              <Node name="StrategyPattern" expanded="True">
+                <Node name="AbstractFactoryPattern" expanded="True" />
+                <Node name="FactoryMethodPattern" expanded="True" />
+                <Node name="SimpleFactoryPattern" expanded="True" />
+              </Node>
+              <Node name="TemplateMethodPattern" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
