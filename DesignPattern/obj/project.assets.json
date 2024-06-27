@@ -1665,11 +1665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maowenjie/资料/学习/Projects/设计模式/DesignPattern/DesignPattern/DesignPattern.csproj",
+      "projectUniqueName": "/Users/maowenjie/Project/DesignPattern/DesignPattern/DesignPattern.csproj",
       "projectName": "DesignPattern",
-      "projectPath": "/Users/maowenjie/资料/学习/Projects/设计模式/DesignPattern/DesignPattern/DesignPattern.csproj",
+      "projectPath": "/Users/maowenjie/Project/DesignPattern/DesignPattern/DesignPattern.csproj",
       "packagesPath": "/Users/maowenjie/.nuget/packages/",
-      "outputPath": "/Users/maowenjie/资料/学习/Projects/设计模式/DesignPattern/DesignPattern/obj/",
+      "outputPath": "/Users/maowenjie/Project/DesignPattern/DesignPattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maowenjie/.nuget/NuGet/NuGet.Config"
@@ -1721,5 +1721,17 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.NETCore.App' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7mfr-774f-w5r9",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }

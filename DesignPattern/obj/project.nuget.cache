@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhMbKE/tGkfKD7cD1g0UNYnxIKbPodbCuiAaS6/WuQ+P9qTMOsfMNeU+8Lw2Tqv6/Q1GVU8ZtLXWS3Vf30jIUQ==",
+  "dgSpecHash": "tITCq/I1Wu2qq8pDWc1V6VDXFCaCUwV0lF3KFrRsJiZ0QKFlOtQA6oD+Ysfp74z3oyD1WoMjnN8N3Jtg1nXk0Q==",
   "success": true,
-  "projectFilePath": "/Users/maowenjie/资料/学习/Projects/设计模式/DesignPattern/DesignPattern/DesignPattern.csproj",
+  "projectFilePath": "/Users/maowenjie/Project/DesignPattern/DesignPattern/DesignPattern.csproj",
   "expectedPackageFiles": [
     "/Users/maowenjie/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
     "/Users/maowenjie/.nuget/packages/google.protobuf/3.19.4/google.protobuf.3.19.4.nupkg.sha512",
@@ -26,5 +26,16 @@
     "/Users/maowenjie/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
     "/Users/maowenjie/.nuget/packages/system.text.encoding.codepages/4.4.0/system.text.encoding.codepages.4.4.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.NETCore.App' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7mfr-774f-w5r9",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maowenjie/资料/学习/Projects/设计模式/DesignPattern/DesignPattern/DesignPattern.csproj": {}
+    "/Users/maowenjie/Project/DesignPattern/DesignPattern/DesignPattern.csproj": {}
   },
   "projects": {
-    "/Users/maowenjie/资料/学习/Projects/设计模式/DesignPattern/DesignPattern/DesignPattern.csproj": {
+    "/Users/maowenjie/Project/DesignPattern/DesignPattern/DesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maowenjie/资料/学习/Projects/设计模式/DesignPattern/DesignPattern/DesignPattern.csproj",
+        "projectUniqueName": "/Users/maowenjie/Project/DesignPattern/DesignPattern/DesignPattern.csproj",
         "projectName": "DesignPattern",
-        "projectPath": "/Users/maowenjie/资料/学习/Projects/设计模式/DesignPattern/DesignPattern/DesignPattern.csproj",
+        "projectPath": "/Users/maowenjie/Project/DesignPattern/DesignPattern/DesignPattern.csproj",
         "packagesPath": "/Users/maowenjie/.nuget/packages/",
-        "outputPath": "/Users/maowenjie/资料/学习/Projects/设计模式/DesignPattern/DesignPattern/obj/",
+        "outputPath": "/Users/maowenjie/Project/DesignPattern/DesignPattern/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maowenjie/.nuget/NuGet/NuGet.Config"
