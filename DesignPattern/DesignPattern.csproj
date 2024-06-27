@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="StrategyPattern\" />
+    <None Remove="DecoratorPattern\" />
+    <None Remove="ProxyPattern\" />
+    <None Remove="Strategy&amp;SimpleFactoryPattern\FactoryMethodPattern\" />
+    <None Remove="StrategyPattern\SimpleFactoryPattern\" />
+    <None Remove="PrototypePattern\" />
+    <None Remove="TemplateMethodPattern\" />
+    <None Remove="FacadePattern\" />
+    <None Remove="BuilderPattern\" />
+    <None Remove="ObserverPattern\" />
+    <None Remove="StrategyPattern\AbstractFactoryPattern\" />
+    <None Remove="StatePattern\" />
+    <None Remove="AdapterPattern\" />
+    <None Remove="MySql.Data" />
+    <None Remove="MementoPattern\" />
+    <None Remove="CompositePattern\" />
+    <None Remove="IteratorPattern\" />
+    <None Remove="SingletonPattern\" />
+    <None Remove="BridgePattern\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="StrategyPattern\" />
+    <Folder Include="DecoratorPattern\" />
+    <Folder Include="ProxyPattern\" />
+    <Folder Include="StrategyPattern\FactoryMethodPattern\" />
+    <Folder Include="StrategyPattern\SimpleFactoryPattern\" />
+    <Folder Include="PrototypePattern\" />
+    <Folder Include="TemplateMethodPattern\" />
+    <Folder Include="FacadePattern\" />
+    <Folder Include="BuilderPattern\" />
+    <Folder Include="ObserverPattern\" />
+    <Folder Include="StrategyPattern\AbstractFactoryPattern\" />
+    <Folder Include="StatePattern\" />
+    <Folder Include="AdapterPattern\" />
+    <Folder Include="MementoPattern\" />
+    <Folder Include="CompositePattern\" />
+    <Folder Include="IteratorPattern\" />
+    <Folder Include="SingletonPattern\" />
+    <Folder Include="BridgePattern\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.29" />
+  </ItemGroup>
+</Project>
